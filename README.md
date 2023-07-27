@@ -1,3 +1,4 @@
+<body style='background-color: black'>
 # E-Commerce App (Django)
 
 ![E-Commerce_App](./assets/e-commerce_Django/ecommerce02.png)
@@ -68,5 +69,5 @@ Happy learning and developing!
   
  
 
-
+</body>
 
