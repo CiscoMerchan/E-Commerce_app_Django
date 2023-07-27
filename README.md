@@ -1,4 +1,4 @@
-<body style='background-color: black'>
+
 # E-Commerce App (Django)
 
 ![E-Commerce_App](./assets/e-commerce_Django/ecommerce02.png)
@@ -33,18 +33,18 @@ Having prior experience with Flask, I found Django to be a more user-friendly fr
 
 
 2. Create a virtual environment and activate it. You can follow these steps
-   For Windows:
-   `> python -m venv venv
-    > venv\Scripts\activate`
+For Windows:
+```> python -m venv venv```
+```> venv\Scripts\activate```
    
-   For macOS/Linux:
-   `> python3 -m venv venv
-    > source venv/bin/activate`
+For macOS/Linux:
+```> python3 -m venv venv```
+```> source venv/bin/activate```
 
 
 3. Install the required packages:
 
-  `pip install -r requirements.txt`
+```pip install -r requirements.txt```
 
 
 ## Usage
@@ -53,13 +53,16 @@ Open terminal
 1. Navigate to the `ecommerce` directory: `cd ecommerce`
   
 2. Run the app on your localhost:
-   `python manage.py runserver`
+   ```python manage.py runserver```
 
 3. Access the app in your web browser using the provided local URL (usually `http://127.0.0.1:8000/`).
 
 ## Get Started
 
 Feel free to explore the E-Commerce App, interact with its features, and experiment with the functionalities. If you encounter any issues or have suggestions for improvements, please don't hesitate to open an issue on this repository.
+1. Register as user
+2. Login
+3. Add some items ( is very intuitive)
 
 Happy learning and developing!
 
@@ -69,5 +72,5 @@ Happy learning and developing!
   
  
 
-</body>
+
 
