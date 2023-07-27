@@ -1,3 +1,4 @@
+<body style='background-color: black'>
 # E-Commerce App (Django)
 
 ![E-Commerce App](/path/to/screenshot.png)
@@ -65,5 +66,5 @@ Happy learning and developing!
   
  
 
-
+</body>
 
