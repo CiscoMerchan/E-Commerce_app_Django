@@ -1,8 +1,9 @@
 # E-Commerce App (Django)
-![E-Commerce App](./assets/e-commerce_Django/ecommerce02.png)
+
+![E-Commerce_App](./assets/e-commerce_Django/ecommerce02.png)
 
 
-   Welcome to the E-Commerce App repository! This web application was built with Django as part of my learning journey. I created it in December 2022, following the instructions of a course on FreeCode Camp. Through this project, I aimed to grasp the philosophy of Django and understand the roles of essential files like `settings.py`, `views.py`, `urls.py`, and `models.py`.
+Welcome to the E-Commerce App repository! This web application was built with Django as part of my learning journey. I created it in December 2022, following the instructions of a course on FreeCode Camp. Through this project, I aimed to grasp the philosophy of Django and understand the roles of essential files like `settings.py`, `views.py`, `urls.py`, and `models.py`.
 
 ## Why Django?
 
