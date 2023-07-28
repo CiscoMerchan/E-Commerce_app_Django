@@ -4,16 +4,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta name="author" content="ciscodev" />
     <script src="https://cdn.tailwindcss.com"></script>
 
     <title>
+        E-commerce -
         {% block title %}
-           {% endblock %}
+        {% endblock %}
     </title>
 </head>
 <body>
     <nav class="py-6 px-6 flex justify-between items-center border-b border-gray-200">
-        <a href="/" class="text-xl font-semibold">E-commerce</a>
+        <a href="https://ciscodev.website/" target='_blank' rel='author' style="cursor:pointer"  class="text-xl font-bold">E-commerce</a>
         {% if request.user.is_authenticated %}
         <h2 class="md\12 text-2xl text-center">
             Hello, {{ request.user}}!
